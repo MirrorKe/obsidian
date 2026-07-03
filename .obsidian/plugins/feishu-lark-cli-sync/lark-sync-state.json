@@ -612,8 +612,8 @@
     },
     "N7k9dDUo7o84i8xmhV7c0e4cnKc": {
       "doc": "N7k9dDUo7o84i8xmhV7c0e4cnKc",
-      "revisionId": 11,
-      "contentHash": "e49aba2c3698ce25ad26f47da2bf4f214d7efe51f7563a91ecc17c6f3982180d",
+      "revisionId": 13,
+      "contentHash": "a32ec9b4c8e295a074b21fbb59630d43d865281bda1545220f1bc4fea63efcc6",
       "units": [
         {
           "stableId": "0:paragraph",
@@ -714,7 +714,7 @@
         {
           "stableId": "16:paragraph",
           "kind": "paragraph",
-          "hash": "2a9c93decc5b84d0d42c90fb73da4c431e6bc9085ccf7ec49ff32d00e386e15d",
+          "hash": "245c4bfd4f82b47baee324d76c19a31851f2f9517b55c422659679ee1e706dd9",
           "blockId": ""
         },
         {
@@ -982,7 +982,7 @@
           "blockId": ""
         }
       ],
-      "updatedAt": "2026-07-03T11:11:59.567Z"
+      "updatedAt": "2026-07-03T11:47:58.619Z"
     }
   }
 }

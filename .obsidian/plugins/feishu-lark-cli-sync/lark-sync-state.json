@@ -612,8 +612,8 @@
     },
     "N7k9dDUo7o84i8xmhV7c0e4cnKc": {
       "doc": "N7k9dDUo7o84i8xmhV7c0e4cnKc",
-      "revisionId": 9,
-      "contentHash": "fd80a954171f91c99cc30fb4a546b75683d85c68672c8e6820278d2267ab9d9b",
+      "revisionId": 11,
+      "contentHash": "e49aba2c3698ce25ad26f47da2bf4f214d7efe51f7563a91ecc17c6f3982180d",
       "units": [
         {
           "stableId": "0:paragraph",
@@ -982,7 +982,7 @@
           "blockId": ""
         }
       ],
-      "updatedAt": "2026-07-03T10:35:23.780Z"
+      "updatedAt": "2026-07-03T11:11:59.567Z"
     }
   }
 }

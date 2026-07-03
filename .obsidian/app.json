@@ -1,5 +1,8 @@
 {
   "readableLineLength": true,
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "absolute"
 }

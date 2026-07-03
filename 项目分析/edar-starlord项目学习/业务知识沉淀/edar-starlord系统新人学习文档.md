@@ -1,14 +1,14 @@
 家装系统从整体流程来看大致可分为签单 → 设计 → 报价/选材 → 合同签订 → 开工准备 → 施工阶段 → 竣工验收 → 结算 → 售后     「可参考[履约流程分级](https://a4mkvsc1gv.feishu.cn/docx/NKo0ddvANonQnVxRRFMcDBJZnKg)」
 
-家装系统从领域来划分大致为[Home-交付学习新人文档](https://tcnazlbn8p8b.feishu.cn/wiki/RAPZwbNuoisu3akToPocue9kn6d)：
-
+家装系统从领域来划分大致为[Home-交付学习新人文档](https://tcnazlbn8p8b.feishu.cn/wiki/RAPZwbNuoisu3akToPocue9kn6d)：[[Home-交付学习新人文档]]
+[[总结]]
 ![img](https://tcnazlbn8p8b.feishu.cn/space/api/box/stream/download/asynccode/?code=MjVkNDA2NDdkYzViZDM3MmQ0Yzc1ZTY5ODljYzdkYmVfMW54R21ScnVldjJGQndRWU5YVFlrVWtxWEpEeTJVa0ZfVG9rZW46RVVzQmJRSWo5b3BYeUJ4WmlmUWNURW1iblRmXzE3ODI5Nzk1MjU6MTc4Mjk4MzEyNV9WNA&add_watermark=true&scene_type=CCM)
 
 其中我们部门的重点可视为从开工准备开始到售后的所有步骤，位于交付阶段。edar-starlord系统是**家装交付中台**，核心定位是：**主材任务****全生命周期管理****的调度引擎和配置中心**。 「主材是指装修过程中用量大、金额高、对整体效果和品质起决定性作用的材料」
 
 本文档定位是系统职责清单「[edar-starlord系统新人学习文档](https://tcnazlbn8p8b.feishu.cn/wiki/Ci7uwvxu2ilenbky9HCcQbSgnfe)」，主要理清楚系统要干的事情。
 
-本系统中还涉及用工平台「[用工平台新人学习文档](https://tcnazlbn8p8b.feishu.cn/wiki/ZaNOwV18ui2p8Lkmhdzc1SvdnJh)」
+本系统中还涉及用工平台「[用工平台新人学习文档](https://tcnazlbn8p8b.feishu.cn/wiki/ZaNOwV18ui2p8Lkmhdzc1SvdnJh)」[[用工平台新人学习文档]]
 
 该系统自身做的事（按业务域）
 

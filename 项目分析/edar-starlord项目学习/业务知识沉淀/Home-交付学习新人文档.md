@@ -20,7 +20,7 @@
 
 ## 交付系统能力Map
 
-交付的核心是对**人、场、料的调控**，关键概念为施工包，材料方面主要是主材「主材是指装修过程中用量大、金额高、对整体效果和品质起决定性作用的材料」，辅材不履约。edar-starlord系统是**家装交付中台**，核心定位是：**主材任务全生命周期管理的调度引擎和配置中心**。 [edar-starlord系统新人学习文档](https://tcnazlbn8p8b.feishu.cn/wiki/Ci7uwvxu2ilenbky9HCcQbSgnfe)
+交付的核心是对**人、场、料的调控**，关键概念为施工包，材料方面主要是主材「主材是指装修过程中用量大、金额高、对整体效果和品质起决定性作用的材料」，辅材不履约。edar-starlord系统是**家装交付中台**，核心定位是：**主材任务全生命周期管理的调度引擎和配置中心**。 [edar-starlord系统新人学习文档](https://tcnazlbn8p8b.feishu.cn/wiki/Ci7uwvxu2ilenbky9HCcQbSgnfe)[[edar-starlord系统新人学习文档]]
 
 **交付流程的核心要素：**人、场、货（料）
 
@@ -28,8 +28,7 @@
 
 ![img](https://tcnazlbn8p8b.feishu.cn/space/api/box/stream/download/asynccode/?code=MDQxYzU2OWNhYzgzZThkMzQ5YTAzMzZhNjU0NWJiNjdfdjVscEJGMUFSOURtRDYwNHF5Y3plSlNmM2o3QlZoNG5fVG9rZW46QUxudmJYdHU4b3B6QjZ4UEpzWmM5ejZKbkNmXzE3ODI5Nzk2MzQ6MTc4Mjk4MzIzNF9WNA&add_watermark=true&scene_type=CCM)
 
-关键概念施工包[施工包概念理解](https://tcnazlbn8p8b.feishu.cn/wiki/JHlRwTH8di3rpDkXjLQcsJBkn1b)
-
+关键概念施工包[施工包概念理解](https://tcnazlbn8p8b.feishu.cn/wiki/JHlRwTH8di3rpDkXjLQcsJBkn1b)[[[[施工包概念理解]]
 施工包理解可通过下图的施工包任务配置辅助理解
 
 ![img](https://tcnazlbn8p8b.feishu.cn/space/api/box/stream/download/asynccode/?code=OGM3NzA4NWEyYmJkMGM4MmIzM2Y5ODk2YzQwYzc4NzVfN3NqZFZ1aGs4VnhiUUkxZHVjc3NLSnZGWDJPQTYzcjFfVG9rZW46T1FLbGIzSHhOb01tUk54U0pQaGNRTXVGbm9oXzE3ODI5Nzk2MzQ6MTc4Mjk4MzIzNF9WNA&add_watermark=true&scene_type=CCM)

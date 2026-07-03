@@ -219,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +236,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0238af7ca141f638",
+  "active": "45c4f183fd5b17b0",
   "lastOpenFiles": [
     "未命名.base",
     "会议以分享/会议/智能纪要：家装业务系统相关内容讨论 2026年7月3日/智能纪要：家装业务系统相关内容讨论 2026年7月3日.md",

@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "c635a275943ae058",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b995fade36409e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d6ae6f9dbb801e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目分析/edar-starlord项目学习/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "2f9216b8d3756fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目分析/edar-starlord项目学习/log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
+            }
+          },
+          {
+            "id": "45c4f183fd5b17b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "会议以分享/会议/智能纪要：家装业务系统相关内容讨论 2026年7月3日/智能纪要：家装业务系统相关内容讨论 2026年7月3日.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "智能纪要：家装业务系统相关内容讨论 2026年7月3日"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25d6d1e628a31650",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bbe29f11514bcc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b54f696b5c388094",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "53880614391a5f16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dd95499e7ada39e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5
+  },
+  "right": {
+    "id": "9ea8a1c419913df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a85f72f15f56375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e457366dbe0b565c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/system-boundary-controller.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "system-boundary-controller 的反向链接列表"
+            }
+          },
+          {
+            "id": "a2aad383c46b044c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "concepts/system-boundary-controller.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "system-boundary-controller 的出链列表"
+            }
+          },
+          {
+            "id": "01a2d945432ee0db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "faacafc785ac1a8e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "084fed307eaf7c88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "concepts/system-boundary-controller.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "system-boundary-controller 的大纲"
+            }
+          },
+          {
+            "id": "23e3e3c2cc942472",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "0238af7ca141f638",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "realclaudian:Open Claudian": false,
+      "feishu-lark-cli-sync:同步到飞书": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0238af7ca141f638",
+  "lastOpenFiles": [
+    "未命名.base",
+    "会议以分享/会议/智能纪要：家装业务系统相关内容讨论 2026年7月3日/智能纪要：家装业务系统相关内容讨论 2026年7月3日.md",
+    "日报与周报/日报.md",
+    "会议以分享/会议/智能纪要：家装业务系统相关内容讨论 2026年7月3日/图片和附件/meetgraph_7658147645130689493_b5e6dfd6-4262-45cc-b8b2-198d7b6e96c6.png",
+    "会议以分享/会议/智能纪要：家装业务系统相关内容讨论 2026年7月3日/图片和附件",
+    "会议以分享/会议/智能纪要：家装业务系统相关内容讨论 2026年7月3日",
+    "会议以分享/分享/智能纪要：Obsidian工具使用经验分享 2026年7月2日.md",
+    "会议以分享/会议/智能纪要：家装业务系统相关内容讨论 2026年7月3日.zip",
+    "智能纪要：家装业务系统相关内容讨论 2026年7月3日.zip",
+    "项目分析/edar-starlord项目学习/index.md",
+    "日报与周报",
+    "项目分析/edar-starlord项目学习/concepts/system-responsibilities.md",
+    "项目分析/edar-starlord项目学习/log.md",
+    "项目分析/edar-starlord项目学习/starlord_业务架构与流程.md",
+    "项目分析/edar-starlord项目学习/业务知识沉淀/edar-starlord系统新人学习文档.md",
+    "项目分析/edar-starlord项目学习/业务知识沉淀/用工平台新人学习文档.md",
+    "项目分析/edar-starlord项目学习/业务知识沉淀/施工包概念理解.md",
+    "未命名.md",
+    "项目分析/edar-starlord项目学习/业务知识沉淀/Home-交付学习新人文档.md",
+    "项目分析/edar-starlord项目学习/业务知识沉淀",
+    "会议以分享/分享",
+    "会议以分享/会议",
+    "会议以分享",
+    "项目分析/edar-starlord项目学习/material-schedule.md",
+    "项目分析/edar-starlord项目学习/concepts/system-boundary-controller.md",
+    "项目分析/edar-starlord项目学习/entities/project-overview.md",
+    "项目分析/edar-starlord项目学习/concepts/state-machines.md",
+    "项目分析/edar-starlord项目学习/concepts/external-systems.md",
+    "项目分析/edar-starlord项目学习/task-dispatch-v2.md",
+    "项目分析/edar-starlord项目学习/SCHEMA.md",
+    "项目分析/edar-starlord项目学习/concepts/system-boundary-api.md",
+    "项目分析/edar-starlord项目学习/entities/material-flow-rule.md",
+    "项目分析/edar-starlord项目学习/entities/coordinator-task.md",
+    "项目分析/edar-starlord项目学习/concepts/delivery-flow-config.md",
+    "项目分析/edar-starlord项目学习/concepts/delivery-architecture.md",
+    "未命名.canvas",
+    "项目分析/edar-starlord项目学习/entities/dispatch-activate.md"
+  ]
+}

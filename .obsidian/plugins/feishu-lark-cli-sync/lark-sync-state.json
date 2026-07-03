@@ -1,0 +1,615 @@
+{
+  "version": 1,
+  "documents": {
+    "JMredI66wonTHcxOvWhckbx4n4u": {
+      "doc": "JMredI66wonTHcxOvWhckbx4n4u",
+      "revisionId": 4,
+      "contentHash": "5b32b4f894f498b753d45218f4673817b7099f5728fdfde1d2187e05bbec6f78",
+      "titleBlockId": "JMredI66wonTHcxOvWhckbx4n4u",
+      "titleHash": "5518f8cff34466a8711fd965c99754037272113502b785717af67dbf29c2a59f",
+      "units": [
+        {
+          "stableId": "0:paragraph",
+          "kind": "paragraph",
+          "hash": "20b3224ce40b571b09136c0a36efb6aa6561bf87ee7e6116e5fbe5b14b9c2d20",
+          "blockId": "doxcnnVdHNFAdYkJSGfA9nxSKoe"
+        },
+        {
+          "stableId": "1:list",
+          "kind": "list",
+          "hash": "a1e5ee1ef63e89e220fe84ebc96355a7058d278b413971c8e293708da4d71cc7",
+          "blockId": "doxcnvWosmI7yQclGf7T4mvcJLw"
+        },
+        {
+          "stableId": "2:list",
+          "kind": "list",
+          "hash": "78c5e2f2dc15a8d784e9c3067ef9033901d28c83c9022a10525ac639d20a7111",
+          "blockId": "doxcn2nSjl1AtnSTrXy5Br3DFwp"
+        },
+        {
+          "stableId": "3:list",
+          "kind": "list",
+          "hash": "16fe3216b8712869212ae1e538f7542348da4a8ee9e807e9cece43a4b952d5a0",
+          "blockId": "doxcne9vUGorgoretUL17HFX2Gb"
+        },
+        {
+          "stableId": "4:list",
+          "kind": "list",
+          "hash": "1f9b89dc16680c83befa1d25462e4a24be5afd36b1294f712b239e5731b66098",
+          "blockId": "doxcnTLTboJAwlLK3veC2jQPgcc"
+        },
+        {
+          "stableId": "5:list",
+          "kind": "list",
+          "hash": "9e2aa95037c85c56b891646de7082d388cb3ebbb0828b0c2d5a2615b69ea76a2",
+          "blockId": "doxcnX6UO9eA38HxLca5kPFmnee"
+        },
+        {
+          "stableId": "6:list",
+          "kind": "list",
+          "hash": "a6d73878b471b9a14861e778ea5f538f193d72f46ac6bc96f26505899513580d",
+          "blockId": "doxcnWq7XuZYlrNZ0p4HiIvc6Bt"
+        },
+        {
+          "stableId": "7:list",
+          "kind": "list",
+          "hash": "88c44c0ac16526c553f271d4a6adc83160bbabe31fc0e567fbb15796749ec195",
+          "blockId": "doxcnMdhvb5CF55LtwrfHbZeuZb"
+        },
+        {
+          "stableId": "8:list",
+          "kind": "list",
+          "hash": "3ba6c55b68a8a200ffe1ed203be820b0a3384d6052918cf115e23f5c9db080d5",
+          "blockId": "doxcnpfxUCumSU5Ugea4gkqGpFd"
+        },
+        {
+          "stableId": "9:list",
+          "kind": "list",
+          "hash": "ea123037bdb86ef280ba84c9972303211da710916a7d48315b3023c3d9430c92",
+          "blockId": "doxcnI5PgKrz8IigIr0ZnuN1qDb"
+        },
+        {
+          "stableId": "10:list",
+          "kind": "list",
+          "hash": "fa204a5263c4ba9bd4aa9b4537c4e92d3327edfe8d46a6d13efe20de9284b363",
+          "blockId": "doxcndnOhBefm9xGAq9zJwi7WkW"
+        },
+        {
+          "stableId": "11:list",
+          "kind": "list",
+          "hash": "cf71f65fdf7294f68056556f98c7b8967f9d3852b2627b538279e4eceb342123",
+          "blockId": "doxcn03UaUlj0CgwtboTWkngwWb"
+        },
+        {
+          "stableId": "12:list",
+          "kind": "list",
+          "hash": "1aeb187a93abce8854da9cb3746e97382c18138b8c02229b507639a90174871f",
+          "blockId": "doxcnPinqGnaZlegV8WZAHES2cf"
+        },
+        {
+          "stableId": "13:list",
+          "kind": "list",
+          "hash": "269407b7d20586cb859897889a8ae583b14aa3fd2d32f1d71bcd8459c14b56db",
+          "blockId": "doxcnhOyYD21UT1yizKnWIlRSWe"
+        },
+        {
+          "stableId": "14:list",
+          "kind": "list",
+          "hash": "82e3e6b4ceb242d7b8d7b5eb5abbff946a6ac4a2eb78cf86461b2f77d8e85592",
+          "blockId": "doxcnTZReXFgaW3m42bZv7TtDxf"
+        },
+        {
+          "stableId": "15:list",
+          "kind": "list",
+          "hash": "069c2a786ffa70e86850a8ea53e5525710d9e4723b7d99f8372deee3befed942",
+          "blockId": "doxcnZvkYSwMuYWt1q8eMqP5Hfb"
+        },
+        {
+          "stableId": "16:list",
+          "kind": "list",
+          "hash": "28f6b6e6456e777af2e3ad0614f6b72ce4fd15db2a0beacef69504a769f74c10",
+          "blockId": "doxcnVzgi0pyw3B0nBrnhun8AGg"
+        },
+        {
+          "stableId": "17:list",
+          "kind": "list",
+          "hash": "6efb4554d12a474105fead95f8d052c42c8dffc1c701d5614227f8e170367cf4",
+          "blockId": "doxcnGEGlkuwggjOrOlEsORqEuG"
+        },
+        {
+          "stableId": "18:list",
+          "kind": "list",
+          "hash": "edfcedb4e7d3b88de8e9746c3b81dcc5df7aa82f7d7dbb8ac1be37d009af305b",
+          "blockId": "doxcnUpFpFNl9X28tzjScZqhRWd"
+        },
+        {
+          "stableId": "19:list",
+          "kind": "list",
+          "hash": "298ab80a28578484dcad258c478d33911364bb7daa6005b3851718e443187360",
+          "blockId": "doxcntcbv21jnhYbHpoMRAy7aqc"
+        },
+        {
+          "stableId": "20:list",
+          "kind": "list",
+          "hash": "80ba26b9586a3a7a47f311842dd696e59772224cc9ee814a6621b984bccccb36",
+          "blockId": "doxcnOZC2kUtJAeP8Cth4WWx31g"
+        },
+        {
+          "stableId": "21:list",
+          "kind": "list",
+          "hash": "30ed395c5ddb17a3dbc04a89e1e003b9c011cf08968dd05fe052da8a907e1a45",
+          "blockId": "doxcnaHY3nLSjxakZY8P4Ne6ldf"
+        },
+        {
+          "stableId": "22:list",
+          "kind": "list",
+          "hash": "0708fe168035b198d2943b6bc25746422aa0c8f4fd448178181997b1852da70e",
+          "blockId": "doxcnxWFhdsGE5te4cxPeWcnKRb"
+        },
+        {
+          "stableId": "23:list",
+          "kind": "list",
+          "hash": "b966d9174517184c038f1e4fca444149e8bba1e096510ffac06bfd02e158d53e",
+          "blockId": "doxcnhM9TTmaLsLCtxNxgj2u9Bh"
+        },
+        {
+          "stableId": "24:list",
+          "kind": "list",
+          "hash": "126fa9c52818e9bd8a58ac765ddc4fd2660c8b8e62b6981861e833c8fc37b4e8",
+          "blockId": "doxcn4HHbcgpClZUgiEbpZEoWOx"
+        },
+        {
+          "stableId": "25:list",
+          "kind": "list",
+          "hash": "798e6545a341d75aa0b8260ed2e8d9f7c7a9a73ce99a706132decf415e43ef47",
+          "blockId": "doxcnoK8NTOFh8NzUGXbwjozuvJ"
+        },
+        {
+          "stableId": "26:list",
+          "kind": "list",
+          "hash": "5176a0eae20e493314d23ec42d91d810be345d2aeea834a01d47a7b8a767da5c",
+          "blockId": "doxcntgpoF8fs2oin8mkEJBzDbe"
+        },
+        {
+          "stableId": "27:paragraph",
+          "kind": "paragraph",
+          "hash": "d6783735d1767ec25fa5cbac8012b6ef42e2b5d907336c1d3cf357b8021a716a",
+          "blockId": ""
+        },
+        {
+          "stableId": "28:list",
+          "kind": "list",
+          "hash": "c4d391bab4d7e95f3f90cdcb50630c800d88c50b5a1e89ed9e7dc5414a0be587",
+          "blockId": ""
+        },
+        {
+          "stableId": "29:list",
+          "kind": "list",
+          "hash": "8c1428e2fd4c2bfd3c8630eeae3a9c3461edeee9c6ee821ca87c582f74c4fc53",
+          "blockId": "doxcneuf2rdAoA0X86lIpzKKDpc"
+        },
+        {
+          "stableId": "30:list",
+          "kind": "list",
+          "hash": "e10b0c50f4cb03626bd7ead7d81f5831159a04a37bc122e6e84add014833c9bf",
+          "blockId": "doxcnxeYu5J36GoF4aLJYxvEkOd"
+        },
+        {
+          "stableId": "31:list",
+          "kind": "list",
+          "hash": "8e7f6930f490fd84ddde1e85f85c066f0ef9d4fa9145294dfeaa00cbfe57e748",
+          "blockId": "doxcnbChRP94mJtqloiYguiejkX"
+        },
+        {
+          "stableId": "32:list",
+          "kind": "list",
+          "hash": "3737afea7a08144888ca6f077fbfab1e7a5615bbf1497bd16621c008c9907d41",
+          "blockId": "doxcn7bGXvKTgpJcer1Dov4shAd"
+        },
+        {
+          "stableId": "33:list",
+          "kind": "list",
+          "hash": "62940fb4d7d31733d493de5ef149130fb46abef60c6235c7bd2d0595386149f4",
+          "blockId": "doxcnU0eQz2J3Psnv3sVXPDjUkg"
+        },
+        {
+          "stableId": "34:paragraph",
+          "kind": "paragraph",
+          "hash": "4bcee33eb76d463a0dacab629ecaafe0467a3a9191b1e4a3d97bad64e3e13b01",
+          "blockId": ""
+        },
+        {
+          "stableId": "35:paragraph",
+          "kind": "paragraph",
+          "hash": "5a706086018d1faf7b3352ed821a9a4f532f2754cbf355723a70887ccd1af52c",
+          "blockId": "doxcnpFdUEwuIc4j0ffYPHaDLDb"
+        },
+        {
+          "stableId": "36:blockquote",
+          "kind": "blockquote",
+          "hash": "b15a79975bc43f913f11b0decd270ff32c28a9c551a0b94bd696059e99eda952",
+          "blockId": "doxcntoZfSTchptWssa7q7YZV3e"
+        },
+        {
+          "stableId": "37:paragraph",
+          "kind": "paragraph",
+          "hash": "44134723f200cab5b063651aca06c8ea7ce1e1bb40d49fef366199c539bb6ce7",
+          "blockId": "doxcnsU14IY2dI1zrbVCkQ3ontc"
+        },
+        {
+          "stableId": "38:blockquote",
+          "kind": "blockquote",
+          "hash": "c5dc92857bad76c0947c11b0f872ebebb32e39369966a9df4dcdbf34f7b557eb",
+          "blockId": "doxcnL2E5nr4BcCjFyP4RmxBrMg"
+        },
+        {
+          "stableId": "39:paragraph",
+          "kind": "paragraph",
+          "hash": "618a6d8183bd36fb3eeab0e6a6ddedb4baac30e9b3bea5780b1f206ad1bd4b4d",
+          "blockId": "doxcnTQ4xWNu4m8F7rHKkSZ4aP2"
+        },
+        {
+          "stableId": "40:blockquote",
+          "kind": "blockquote",
+          "hash": "2144e7bd00289dd14ffe084c1ca633240b1be2388e73de4ea846360612ec82ba",
+          "blockId": "doxcnojAKusCCTi0fTyJAZ4BYMf"
+        },
+        {
+          "stableId": "41:paragraph",
+          "kind": "paragraph",
+          "hash": "1869c79641142bed5f58088ceac54b477ca050a91083ab3eb44ee3012e00e4f6",
+          "blockId": "doxcnAWdW18GKK5N3ZuPx2sDPOc"
+        },
+        {
+          "stableId": "42:blockquote",
+          "kind": "blockquote",
+          "hash": "0899c230d9ec1a7e233888bc752a98a873b37d5f5a5d8cae1fbde990510c4a58",
+          "blockId": "doxcnpayzbplIgPqXTBuCOwad2d"
+        },
+        {
+          "stableId": "43:paragraph",
+          "kind": "paragraph",
+          "hash": "229a7c3da0a5d5a6e8559bc3b67c6fc7bf42b033229e49ba690fc85be689a394",
+          "blockId": "doxcnKGrL24zsm7IDkPUkW1EB0e"
+        },
+        {
+          "stableId": "44:blockquote",
+          "kind": "blockquote",
+          "hash": "3c3c94bda8744b98a648d8dfdaec90d3dfae02d6740698bea85dd88b6952a6ea",
+          "blockId": "doxcnNLJvvdZ6gfWXz7qyHIL11d"
+        },
+        {
+          "stableId": "45:paragraph",
+          "kind": "paragraph",
+          "hash": "da16341f3ab1a9809d91263b952b82838b3acdf2ff64e1844cc9543ff6e715a8",
+          "blockId": "doxcnpe11Ii7x4pvsUkagmBG7Fi"
+        },
+        {
+          "stableId": "46:blockquote",
+          "kind": "blockquote",
+          "hash": "cc53287c71f54369e19f8ed93274291305e5e30f9ea3033cedd28a644b33bf6f",
+          "blockId": "doxcnnkb1iOAlr7tkJCsl4YL4wb"
+        },
+        {
+          "stableId": "47:paragraph",
+          "kind": "paragraph",
+          "hash": "68dd14006762c83e220ebb699083f78b9104da25d81c52b0e333749f344f9403",
+          "blockId": "doxcnub5mKBbbSxOlpzL0FPV0Sb"
+        },
+        {
+          "stableId": "48:blockquote",
+          "kind": "blockquote",
+          "hash": "d95761048375ead9bded0bad6cee0686df0b2a019c8d8cfe0298d5a6d539d1c1",
+          "blockId": "doxcnNLR7dhWXqTJSl3JYwvm4Ph"
+        },
+        {
+          "stableId": "49:paragraph",
+          "kind": "paragraph",
+          "hash": "ec361c21ff5f3b0664c22908afb73dfa0e9f12f35bb381e5970a6f34cbc079af",
+          "blockId": "doxcndfqTNTVCDkErEuaS7UhjBb"
+        },
+        {
+          "stableId": "50:blockquote",
+          "kind": "blockquote",
+          "hash": "4072b247a222705a2eb44793306caba6ca836ddd05363b901f6c4a76f8105150",
+          "blockId": "doxcn3nvLTeAfY4RYXg9jTwSVUb"
+        },
+        {
+          "stableId": "51:paragraph",
+          "kind": "paragraph",
+          "hash": "2e6030955b0b2285c22ad221578e92eb9b37aa7d7393bb07c23b19df1fb92830",
+          "blockId": "doxcnjnvfbtet8eboUw0uJhWsgh"
+        },
+        {
+          "stableId": "52:blockquote",
+          "kind": "blockquote",
+          "hash": "609227c06f70d102d696d13337883a29668be36092288b22bec7b8a6eaf012ed",
+          "blockId": "doxcnsJZgRgoLdzs1moW5mq1tFe"
+        },
+        {
+          "stableId": "53:paragraph",
+          "kind": "paragraph",
+          "hash": "44263f49b5ec24def085cc50538c158c1fe036892a5f566c301bc91d98999d40",
+          "blockId": "doxcny6eKajx3jf2LuytDq8TyFd"
+        },
+        {
+          "stableId": "54:blockquote",
+          "kind": "blockquote",
+          "hash": "addfd8f57e44a7d2db8001834d0efcb3a79cc2d8b7617532e50a266e5829a01d",
+          "blockId": "doxcn1r5k1YdCY05gF5TzKFaONh"
+        },
+        {
+          "stableId": "55:paragraph",
+          "kind": "paragraph",
+          "hash": "c6a3ab1316e2f2239f1b5034a431d83b2dbf1b6278c577921fa72f62467a76be",
+          "blockId": "doxcn1WJ2NREBSNh2KB0JYvftAh"
+        },
+        {
+          "stableId": "56:blockquote",
+          "kind": "blockquote",
+          "hash": "89ce7ad752090f39bb7073b12ade1a2f16674dc40988be4d78cfb86d4484e005",
+          "blockId": "doxcncMNCYbRGxyibd2Ip9UCHGc"
+        },
+        {
+          "stableId": "57:paragraph",
+          "kind": "paragraph",
+          "hash": "8635ab9db896c89a1bb4c93822fcdc3040130634b2a5619bdee7a40baedbcece",
+          "blockId": "doxcnojT4VvSDc3u4iJgLKVHfnY"
+        },
+        {
+          "stableId": "58:blockquote",
+          "kind": "blockquote",
+          "hash": "6cd0f2d1e4a8c8cc3cf68d9dfd627645e829b9951bf68f1dc2bfd664a0e1d4eb",
+          "blockId": "doxcnCLhLplsNkzo3Wb0hPG2ame"
+        },
+        {
+          "stableId": "59:paragraph",
+          "kind": "paragraph",
+          "hash": "675134f47612251d169a3d43742166904caaaad71d9e39687f64d8574a782883",
+          "blockId": "doxcnGd5ZUR3oJy38TXXZCrzUCd"
+        },
+        {
+          "stableId": "60:blockquote",
+          "kind": "blockquote",
+          "hash": "f5fd9042bc5149afce4fd069233837c84423157bc0955d2949cbe30d9eff88bd",
+          "blockId": "doxcnh524iB0pFCZFX5n8pvRvF3"
+        },
+        {
+          "stableId": "61:paragraph",
+          "kind": "paragraph",
+          "hash": "315e59218f43cced20ac97d171ddcbe74a1217157984d7fe114253ccdef4b9ed",
+          "blockId": "doxcn8Kxf8kuJ6EeFhhY2QX2dmf"
+        },
+        {
+          "stableId": "62:blockquote",
+          "kind": "blockquote",
+          "hash": "94b96d3cba3198bab886cc8e6afbd756b4207678349617dec4519bb37be8711b",
+          "blockId": "doxcnmEvwtbMuLDtD4vNsjWCJEd"
+        },
+        {
+          "stableId": "63:paragraph",
+          "kind": "paragraph",
+          "hash": "43fbd220a9ca33d3e87fc7279a65c795c11be494caca58c23f3f845518100ba8",
+          "blockId": "doxcnqTr6sO3HjXFXJ5xnRJdb7e"
+        },
+        {
+          "stableId": "64:blockquote",
+          "kind": "blockquote",
+          "hash": "60b1a34ff4971963479c516741ef93a4bd66a7bdcd377dbd840041367acb1dda",
+          "blockId": "doxcn8bLGbTh7pKYWKbAdndtdae"
+        },
+        {
+          "stableId": "65:paragraph",
+          "kind": "paragraph",
+          "hash": "2146c785bb04884d3abc591aa27081119b4932e837987240e3b8a0f602bd560f",
+          "blockId": "doxcnaAfU7lpsJqRzlvLuijiJZd"
+        },
+        {
+          "stableId": "66:blockquote",
+          "kind": "blockquote",
+          "hash": "a12e21f23a9b6a6c83f145fe4fe1c9c2bbadb84a044a1ff154b28e1af9f07d82",
+          "blockId": "doxcnRQpwt0kQABaKTfmwXXVy3b"
+        },
+        {
+          "stableId": "67:paragraph",
+          "kind": "paragraph",
+          "hash": "372c8b37b44a17960c52abad295eba1b3564fa75a85fd39b6436090e2d79d40e",
+          "blockId": "doxcnzV5SIdHyEmJr5fPqzOugfa"
+        },
+        {
+          "stableId": "68:blockquote",
+          "kind": "blockquote",
+          "hash": "bbc81be54633a2ee6e1e231df4fc9022a5b6e4af9daecd2611a20afd4b6579a8",
+          "blockId": "doxcnNri4QqDTP2bp27aDYfBKeg"
+        },
+        {
+          "stableId": "69:paragraph",
+          "kind": "paragraph",
+          "hash": "e0efcd8cc65e83c921f595aff4e999e030588ec40d08c36729e7b07809cbae2b",
+          "blockId": "doxcnREfUjUdcN3MksVuls4222c"
+        },
+        {
+          "stableId": "70:blockquote",
+          "kind": "blockquote",
+          "hash": "cf9a185b231765a9c3eff429a16fdb9fca61d5c2eddbde7c582246c729a4617b",
+          "blockId": "doxcnHN1oLjwFcmWnXIvioRpd4e"
+        },
+        {
+          "stableId": "71:paragraph",
+          "kind": "paragraph",
+          "hash": "fbfe6bd174de3138d723bc05210eec73495e5157cf4136dc57f1dffb24b91082",
+          "blockId": "doxcnfill8iBhYLpYD6Widg0UMf"
+        },
+        {
+          "stableId": "72:blockquote",
+          "kind": "blockquote",
+          "hash": "eea50509cacd5c814fe4e75bdd070aae09722175aa406acfdfb15678f0f5867b",
+          "blockId": "doxcnvF1b0hsAHkF2hllrCXTVxe"
+        },
+        {
+          "stableId": "73:paragraph",
+          "kind": "paragraph",
+          "hash": "43e455db48ff515e4a5835c5e9ef411b5867cab0eb2fcbb5a1afc252dd535158",
+          "blockId": "doxcnzstNNyHNiKQpO79tCkCT9b"
+        },
+        {
+          "stableId": "74:blockquote",
+          "kind": "blockquote",
+          "hash": "03c72f6d574fded3103515074588fe92433b00b219097e80f66f8879061447c2",
+          "blockId": "doxcnSoeq8ae4WlkWvazZqcPWll"
+        },
+        {
+          "stableId": "75:paragraph",
+          "kind": "paragraph",
+          "hash": "68c88f5c3c2abd10055770b484b827131665b7aec98e0d1d58b18f14b28fe65e",
+          "blockId": "doxcnN4LhEXspvGYg7ccOVmxhIc"
+        },
+        {
+          "stableId": "76:blockquote",
+          "kind": "blockquote",
+          "hash": "072757a8933a27fe741c99faab6b185d3e5d6b4096f7af9511c9e207814a1994",
+          "blockId": "doxcnrw3W2aW5fPu2xdYZIUDoJb"
+        },
+        {
+          "stableId": "77:paragraph",
+          "kind": "paragraph",
+          "hash": "247b3d2a76c2ce48889947aeea91d0402a311ed1e21d28314dcca0c624397560",
+          "blockId": "doxcnlAaSkq2TZgECz3YaWQhgof"
+        },
+        {
+          "stableId": "78:blockquote",
+          "kind": "blockquote",
+          "hash": "39a7a2759f06f319f1642babb4479bf1a4df3175f30660f2fde55abbce0ea991",
+          "blockId": "doxcnASifTALhcQL09D81vpal0d"
+        },
+        {
+          "stableId": "79:paragraph",
+          "kind": "paragraph",
+          "hash": "52e70205013eddf9e1c5348c87aad6bc75ec7663c87d629b15f5430a0008b0c9",
+          "blockId": "doxcnc2gkDRDFFSuZOvJXgW2wNb"
+        },
+        {
+          "stableId": "80:blockquote",
+          "kind": "blockquote",
+          "hash": "c169b5d23234cf376c736654a2199f5df3ff642e013ecb6e3c8fc9a7160239c5",
+          "blockId": "doxcn3Q29yLki8HqYhq9wFppbjh"
+        },
+        {
+          "stableId": "81:paragraph",
+          "kind": "paragraph",
+          "hash": "fa9bb374e9a551046fc58dd126c4b09b70a39d6e071367fe51aa5fbe595a52fa",
+          "blockId": "doxcnhJ6Mbp1FMpwAaiuYSbJrPc"
+        },
+        {
+          "stableId": "82:blockquote",
+          "kind": "blockquote",
+          "hash": "a88926051cea460693668658fcf8c2c65493c58f236b28e2a20c56ff75795b06",
+          "blockId": "doxcn7hOvA7l4hCRNf9Bj8f0EUh"
+        },
+        {
+          "stableId": "83:paragraph",
+          "kind": "paragraph",
+          "hash": "7caba390eed267d4ab354d46af96143ee8676ba0c0b648a712a504910231602a",
+          "blockId": "doxcnuyOKLRFBxO1ysBoYnoRYih"
+        },
+        {
+          "stableId": "84:blockquote",
+          "kind": "blockquote",
+          "hash": "9881584377e77326b61771cd0308835d02abc1071e13657abb1a6ce770d85cf4",
+          "blockId": "doxcnvQLvqu0xH4pnt46hcenN8c"
+        },
+        {
+          "stableId": "85:paragraph",
+          "kind": "paragraph",
+          "hash": "f5aaa2e0062220b50e03e8ee2f8635a8aa17169b2b1d6c234f394028cc812199",
+          "blockId": "doxcnmUAkk74N1n9JfveZmvEJxc"
+        },
+        {
+          "stableId": "86:blockquote",
+          "kind": "blockquote",
+          "hash": "59b0e695d98f39ba55384f0d788f70aa00e7118a044eff326e7c1d1dda52637f",
+          "blockId": "doxcnZHX9OhxbV5BCP2SpF0RUuc"
+        },
+        {
+          "stableId": "87:paragraph",
+          "kind": "paragraph",
+          "hash": "38caead048925bde182fd5e6f410c1bf5f22f6fab3c06efd9bbb0daa70050263",
+          "blockId": ""
+        },
+        {
+          "stableId": "88:paragraph",
+          "kind": "paragraph",
+          "hash": "6f25903296d90a0fb22b38758b2f51c8c10c03b0d53fdad3f022909238998f9b",
+          "blockId": "doxcnXPzAFrOBApXIaA3QONYjhe"
+        },
+        {
+          "stableId": "89:list",
+          "kind": "list",
+          "hash": "6a19c23814c76f3e678e2eb380f88f6771c29ed99839088c9df9093ad88a28dd",
+          "blockId": "doxcnrr9GaD9NE3SXImHDg3NIub"
+        },
+        {
+          "stableId": "90:list",
+          "kind": "list",
+          "hash": "ec800aef8e402801f14e5801afe33fc4db5768aaa09860c36e4424302b09b0fa",
+          "blockId": "doxcnyDJdE2PN5J4BFDO1yN6drc"
+        },
+        {
+          "stableId": "91:list",
+          "kind": "list",
+          "hash": "58900566a79ab8fbf0d1c5c7af4d17b8b45d67bd79ab516be805589d81ed65f6",
+          "blockId": "doxcnGtDIrglAFHsQ3cgXYdI8Me"
+        },
+        {
+          "stableId": "92:paragraph",
+          "kind": "paragraph",
+          "hash": "e824f93454181e6fe4a68098e3f3d520755460718a6b90cad6a7d98b678b139d",
+          "blockId": ""
+        },
+        {
+          "stableId": "93:paragraph",
+          "kind": "paragraph",
+          "hash": "da7d78ff67a34d401650b6c874d57f43bdc7ddfdea750566588267a70d7c2622",
+          "blockId": "doxcnTxRiXpKEDFmjCXxhehX95e"
+        },
+        {
+          "stableId": "94:paragraph",
+          "kind": "paragraph",
+          "hash": "4d49f8018aefd880fd6803cff6a44e22ae7c645be3607a61c66001ca03ad4ded",
+          "blockId": "doxcnLqZif6rMI4szbNKsIof79e"
+        },
+        {
+          "stableId": "95:paragraph",
+          "kind": "paragraph",
+          "hash": "6cc20fedf7516cb06907e80a04a6ccf91a82c7debd16b74b2caf1567e2dcee9e",
+          "blockId": "doxcnpscg4JnocwaC64Kmdln9Ic"
+        },
+        {
+          "stableId": "96:paragraph",
+          "kind": "paragraph",
+          "hash": "1126ba5bff3624431b1df2b4d74f7c04bd1db8b6f06cc8ec252874861b9b0ea7",
+          "blockId": "doxcnAbelC4lUvYZD1b3uZL3sKc"
+        },
+        {
+          "stableId": "97:paragraph",
+          "kind": "paragraph",
+          "hash": "6452365141ceb64ec73797bd119d529da4ebbab2ab26255c2db4c000ca6bef13",
+          "blockId": "doxcnWbqALq4MN4sdNU2io4aZOe"
+        },
+        {
+          "stableId": "98:paragraph",
+          "kind": "paragraph",
+          "hash": "e5b95573a98a1ead6ffada84dd2b89fcab4088934477cc7a86c497dca8e8b625",
+          "blockId": "doxcnKdZxQq5uTcU2PUETyWHCOh"
+        },
+        {
+          "stableId": "99:blockquote",
+          "kind": "blockquote",
+          "hash": "8bed7c6138281b9b16db7fc86d3d8e43fb0342fef45290ec89a19e7bdc49d22b",
+          "blockId": "doxcn8tc7OQM7fvFLoxIjNH5zTg"
+        }
+      ],
+      "updatedAt": "2026-07-03T04:06:04.725Z"
+    }
+  }
+}

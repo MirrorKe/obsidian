@@ -1,0 +1,28 @@
+{
+  "id": "conv-1782995441834-f4igfbboh",
+  "providerId": "claude",
+  "title": "hello",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782995441855,
+  "updatedAt": 1782996405746,
+  "lastResponseAt": 1782996405746,
+  "sessionId": "5ba5f081-77ed-4ece-a85a-9e8583f9abd9",
+  "providerState": {
+    "providerSessionId": "5ba5f081-77ed-4ece-a85a-9e8583f9abd9",
+    "previousProviderSessionIds": [
+      "c54a571f-2732-4e5c-8e7e-06836a95da45",
+      "8bc35193-fb38-409e-bea3-9e961eb4d487"
+    ]
+  },
+  "currentNote": "日报与周报/日报.md",
+  "usage": {
+    "model": "deepseek-v4-flash",
+    "inputTokens": 1212,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21504,
+    "contextWindow": 200000,
+    "contextTokens": 22716,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
